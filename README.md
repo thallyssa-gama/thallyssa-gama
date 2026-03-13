@@ -5,7 +5,7 @@ Olá,👋🏽
 Sou QA Engineer com experiência em testes manuais, funcionais, exploratórios e automação. 
 
 
-Certificado ISTQB (CTFL) e estudante de Análise e Desenvolvimento de Sistemas, foco na escrita de cenários em Gherkin e na validação de APIs para assegurar entregas estáveis e eficientes, unindo a visão técnica de desenvolvimento ao rigor da garantia de qualidade."
+Certificada ISTQB (CTFL) e estudante de Análise e Desenvolvimento de Sistemas, foco na escrita de cenários em Gherkin e na validação de APIs para assegurar entregas estáveis e eficientes, unindo a visão técnica de desenvolvimento ao rigor da garantia de qualidade."
 
 📍 Abrantes, Santarém - Portugal 🇵🇹 |
 
