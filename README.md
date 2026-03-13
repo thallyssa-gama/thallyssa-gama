@@ -1,6 +1,7 @@
-Olá,👋🏽
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=d62fb6&width=435&lines=Thallyssa+Gama;Quality+Assurance;" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=d62fb6&width=435&lines=Thallyssa+Gama;Quality+Assurance;" alt="Typing SVG" />
 </a>
 
 🧪 Quality Assurance | Estudante de Análise e Desenvolvimento de Sistemas
