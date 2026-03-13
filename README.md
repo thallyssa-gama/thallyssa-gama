@@ -1,4 +1,7 @@
 Olá,👋🏽
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Thallyssa Gama;Quality Assurance;ISTQB+Certified;Estudante+de+ADS" alt="Typing SVG" />
+</a>
 
 🧪 Quality Assurance | Estudante de Análise e Desenvolvimento de Sistemas
 
