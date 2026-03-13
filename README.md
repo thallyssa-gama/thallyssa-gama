@@ -29,9 +29,11 @@ Certificada ISTQB (CTFL) e estudante de Análise e Desenvolvimento de Sistemas, 
 | **Testes & Qualidade** | Manuais, Funcionais, Exploratórios, Regressão e UX/UI (Figma) |
 | **Automação** | Selenium, Cypress, Appium (Mobile), Robot Framework |
 | **APIs** | Postman |
+| **Acessibilidade & Performance	Lighthouse** | DevTools (Chrome), NVDA |
 | **Metodologias** | BDD, Gherkin, Casos de Teste e Planos de Teste |
 | **Dados & Analytics** | SQL|
 | **Ferramentas & Gestão** | Git, Notion |
+
            
 
 
