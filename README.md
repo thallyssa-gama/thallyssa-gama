@@ -34,10 +34,14 @@ Certificada ISTQB (CTFL) e estudante de Análise e Desenvolvimento de Sistemas, 
 | **Dados & Analytics** | SQL|
 | **Ferramentas & Gestão** | Git, Notion |
 
-
+---
 🔗 Contacto
-💼 LinkedIn: linkedin.com/in/thallyssa-gama
-📁 GitHub: github.com/thallyssa-gama
+
+
+💼 LinkedIn: [linkedin.com/in/thallyssa-gama](https://www.linkedin.com/in/thallyssa-gama-265b041b4/)
+
+
+📁 GitHub: [github.com/thallyssa-gama](https://www.github.com/thallyssa-gama)
            
 
 
