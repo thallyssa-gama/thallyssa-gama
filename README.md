@@ -13,7 +13,7 @@ Certificada ISTQB (CTFL) e estudante de Análise e Desenvolvimento de Sistemas, 
 
 ---
 
-### 🚀 Sobre Mim
+### 🙋🏽‍♀️ Sobre Mim
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 * 🛡️ Especialista em escrita de cenários com **Gherkin** e foco em **BDD**.
