@@ -1,16 +1,36 @@
-## Hi there 👋
+Olá,👋🏽
 
-<!--
-**thallyssa-gama/thallyssa-gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Quality Assurance | Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Sou QA Engineer com experiência em testes manuais, funcionais, exploratórios e automação. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Certificado ISTQB (CTFL) e estudante de Análise e Desenvolvimento de Sistemas, foco na escrita de cenários em Gherkin e na validação de APIs para assegurar entregas estáveis e eficientes, unindo a visão técnica de desenvolvimento ao rigor da garantia de qualidade."
+
+📍 Abrantes, Santarém - Portugal 🇵🇹 |
+
+📜 Certificação: **ISTQB® Certified Tester Foundation Level (CTFL)**
+
+---
+
+### 🚀 Sobre Mim
+
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+* 🛡️ Especialista em escrita de cenários com **Gherkin** e foco em **BDD**.
+* 🔍 Experiência com testes de UI e API, garantindo a melhor experiência para o usuário.
+* 🤖 Em constante evolução em pipelines de CI/CD e automação de testes.
+
+---
+
+### 🛠️  Competências Técnicas
+
+| Categoria | Ferramentas e Tecnologias |
+| :--- | :--- |
+| **Automação** | Robot Framework, Selenium, Cypress |
+| **Testes de API** | Postman |
+| **Metodologias** | BDD, Cucumber, Gherkin |
+| **Banco de Dados** | SQL |
+| **Organização** | Notion, Jira |
+           
+
+
